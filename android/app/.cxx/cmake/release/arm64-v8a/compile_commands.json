@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/solutionforest/Development/vtech/android/app/.cxx/cmake/release/arm64-v8a",
+  "command": "/Users/solutionforest/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/solutionforest/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/solutionforest/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dtutk_test_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -O2 -DNDEBUG  -fPIC   -o CMakeFiles/tutk_test.dir/src/main/cpp/MainTest.cpp.o -c /Users/solutionforest/Development/vtech/android/app/src/main/cpp/MainTest.cpp",
+  "file": "/Users/solutionforest/Development/vtech/android/app/src/main/cpp/MainTest.cpp"
+}
+]

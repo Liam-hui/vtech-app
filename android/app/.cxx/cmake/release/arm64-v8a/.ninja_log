@@ -1,0 +1,13 @@
+# ninja log v5
+0	108	1631092345	CMakeFiles/tutk_test.dir/src/main/cpp/MainTest.cpp.o	9f95f11fe0600f8a
+108	223	1631092345	/Users/solutionforest/Development/vtech/build/app/intermediates/cmake/release/obj/arm64-v8a/libtutk_test.so	fc78b7f36caf6dbc
+0	15	0	clean	1ab02a8659ca7a70
+1	102	1631094437	CMakeFiles/tutk_test.dir/src/main/cpp/MainTest.cpp.o	9f95f11fe0600f8a
+102	220	1631094437	/Users/solutionforest/Development/vtech/build/app/intermediates/cmake/release/obj/arm64-v8a/libtutk_test.so	fc78b7f36caf6dbc
+1	115	1631094676	/Users/solutionforest/Development/vtech/build/app/intermediates/cmake/release/obj/arm64-v8a/libtutk_test.so	fc78b7f36caf6dbc
+0	14	0	clean	1ab02a8659ca7a70
+1	114	1631095072	CMakeFiles/tutk_test.dir/src/main/cpp/MainTest.cpp.o	9f95f11fe0600f8a
+114	221	1631095072	/Users/solutionforest/Development/vtech/build/app/intermediates/cmake/release/obj/arm64-v8a/libtutk_test.so	fc78b7f36caf6dbc
+0	13	0	clean	1ab02a8659ca7a70
+1	102	1631096320	CMakeFiles/tutk_test.dir/src/main/cpp/MainTest.cpp.o	9f95f11fe0600f8a
+102	213	1631096320	/Users/solutionforest/Development/vtech/build/app/intermediates/cmake/release/obj/arm64-v8a/libtutk_test.so	fc78b7f36caf6dbc

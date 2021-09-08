@@ -1,0 +1,6 @@
+# ninja log v5
+0	15	0	clean	1ab02a8659ca7a70
+0	13	0	clean	1ab02a8659ca7a70
+0	14	0	clean	1ab02a8659ca7a70
+0	314	1631096191	CMakeFiles/tutk_test.dir/src/main/cpp/MainTest.cpp.o	efc0e4ae2791d6c7
+314	433	1631096192	/Users/solutionforest/Development/vtech/build/app/intermediates/cmake/debug/obj/arm64-v8a/libtutk_test.so	3f5999f9f2b5577b

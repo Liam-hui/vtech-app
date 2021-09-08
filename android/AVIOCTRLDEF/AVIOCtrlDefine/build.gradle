@@ -1,0 +1,30 @@
+apply plugin: 'android-library'
+
+dependencies {
+    implementation fileTree(include: '*.jar', dir: 'libs')
+}
+
+android {
+    compileSdkVersion 26
+    publishNonDefault true
+    flavorDimensions "common"
+    sourceSets {
+        main {
+            java.srcDirs = ['src/main']
+            assets.srcDirs = ['assets']
+            jniLibs.srcDirs = ['libs/avioct']
+        }
+    }
+    buildTypes {
+        debug {
+
+        }
+        release {
+        }
+        staging {
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+    }
+}

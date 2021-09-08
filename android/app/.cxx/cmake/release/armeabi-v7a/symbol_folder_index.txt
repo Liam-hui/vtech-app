@@ -1,0 +1,1 @@
+/Users/solutionforest/Development/vtech/build/app/intermediates/cmake/release/obj/armeabi-v7a

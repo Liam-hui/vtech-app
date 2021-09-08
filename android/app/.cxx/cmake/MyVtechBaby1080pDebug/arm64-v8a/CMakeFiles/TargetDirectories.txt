@@ -1,0 +1,3 @@
+/Users/solutionforest/Development/vtech/android/app/.cxx/cmake/MyVtechBaby1080pDebug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/solutionforest/Development/vtech/android/app/.cxx/cmake/MyVtechBaby1080pDebug/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/solutionforest/Development/vtech/android/app/.cxx/cmake/MyVtechBaby1080pDebug/arm64-v8a/CMakeFiles/tutk_test.dir
